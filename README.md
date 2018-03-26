@@ -8,4 +8,4 @@ scikit-image<br />
 Python 2.7 is used.<br />
 
 <h4>launch the applcation:</h4>
-  <code>python easy-gpg.py</code>
+  <code>python EasyGnupg.py</code>
