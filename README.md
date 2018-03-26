@@ -1,2 +1,11 @@
 # Easy-Gnupg
-An easy python based GUI application that helps you generating keys, encrypting files, and importing files.
+A PYQT GUI based application, that eases the procedure of creating and importing keys, and encrypting and decrypting files based on GPG.
+
+<h4>Required Libraries:</h4><br />
+Pyqt4<br />
+gnupg<br />
+scikit-image<br />
+Python 2.7 is used.<br />
+
+<h4>launch the applcation:</h4>
+  <code>python easy-gpg.py</code>
