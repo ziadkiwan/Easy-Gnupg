@@ -1,7 +1,7 @@
 # Easy-Gnupg
 A PYQT GUI based application, that eases the procedure of creating and importing keys, and encrypting and decrypting files based on GPG.
 
-<h4>Required Libraries:</h4><br />
+<h4>Required Libraries:</h4>
 Pyqt4<br />
 gnupg<br />
 scikit-image<br />
