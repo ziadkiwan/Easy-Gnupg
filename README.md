@@ -4,6 +4,7 @@ A PYQT GUI based application, that eases the procedure of creating and importing
 <h4>Required Libraries:</h4>
 Pyqt4<br />
 gnupg<br />
+python-gnupg<br />
 scikit-image<br />
 Python 2.7 is used.<br />
 
